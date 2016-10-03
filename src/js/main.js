@@ -13,6 +13,7 @@ import { Provider } from 'react-redux';
 import routes from './router/routes';
 import store from './store.js';
 
+import './plugin/plugin.js';
 
 /*
 |--------------------------------------------------------------------------
